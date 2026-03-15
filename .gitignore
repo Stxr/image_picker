@@ -1,0 +1,10 @@
+.pytest_cache/
+.tmp/
+.uv-cache/
+.uv-python/
+.venv/
+.sample_run*/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

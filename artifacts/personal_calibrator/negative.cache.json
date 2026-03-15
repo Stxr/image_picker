@@ -1,0 +1,757 @@
+{
+  "version": 1,
+  "entries": {
+    "e29f5254561f3d52279d5b485e749213cacc3b303eb3aa449f1337f289289ad5": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130945.RW2",
+      "filename": "P1130945.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.0178351402282715,
+      "quality_score_raw": 0.4496636688709259
+    },
+    "f3f1be003b95ff0f6cf729b02bcd5a4ebe6e822d001053d512df8277829d3747": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130973.JPG",
+      "filename": "P1130973.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.264157772064209,
+      "quality_score_raw": 0.16864728927612305
+    },
+    "77ce871ae576c4038a62456a01dfa539d753eb4bb97f77342022f088ab6efc07": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130973.RW2",
+      "filename": "P1130973.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.118506908416748,
+      "quality_score_raw": 0.13652950525283813
+    },
+    "b84cafd3e98e142a637eeb99406b0c32e2999a5858533c8d18eabf525c3e0618": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130975.RW2",
+      "filename": "P1130975.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.532592296600342,
+      "quality_score_raw": 0.1579468846321106
+    },
+    "cdbc087b1c30d7d22e1cffd7d8c4aff80e74ef2037e1b65e0a727ce1c2306963": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130977.RW2",
+      "filename": "P1130977.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.39525032043457,
+      "quality_score_raw": 0.1651988923549652
+    },
+    "16cfc7c0b7c58984e42663a380c7be1a447a5f6ba88219d1e604427088936662": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130978.JPG",
+      "filename": "P1130978.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.692891597747803,
+      "quality_score_raw": 0.16414961218833923
+    },
+    "39f06b04d78885a95f61582ac74857a1c984d5d2fad86f7ded2e088cef149236": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130978.RW2",
+      "filename": "P1130978.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.57211971282959,
+      "quality_score_raw": 0.11972952634096146
+    },
+    "4c31336e8bfc8892b41a5b629b3ae8889998857ede89b9178ffdb25fecefff7a": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130980.RW2",
+      "filename": "P1130980.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.722438812255859,
+      "quality_score_raw": 0.14344576001167297
+    },
+    "e59a59836c21ef1416b692434da70f799c84a7e10bfffd5cfc197256f19964c5": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130981.JPG",
+      "filename": "P1130981.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.281588554382324,
+      "quality_score_raw": 0.1943383514881134
+    },
+    "fe35b0b08e35928025b814eaff8250ae4919f6324fe3c3efd70aa911dbfdc38b": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130981.RW2",
+      "filename": "P1130981.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.1292877197265625,
+      "quality_score_raw": 0.13829025626182556
+    },
+    "eca4e698ff8b3a71e270fb3554278b649803a68154285eb8da171d1491773888": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130982.JPG",
+      "filename": "P1130982.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.211287975311279,
+      "quality_score_raw": 0.2251977026462555
+    },
+    "43a69001f32f9fec85f69d69b50be089d7de4b517ae5ea2295e297551ca1533f": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130982.RW2",
+      "filename": "P1130982.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.037668704986572,
+      "quality_score_raw": 0.14974606037139893
+    },
+    "70766cd0ad9fab55dbd7a59a85b78f16eda4cfb097e2f9104691cb5532b3ee53": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130983.JPG",
+      "filename": "P1130983.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.128581523895264,
+      "quality_score_raw": 0.22178182005882263
+    },
+    "ee696538145e6b36d32e0eea9cbaa5d0d8735ebc25dda956b87f206d0e5f97f4": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130983.RW2",
+      "filename": "P1130983.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.06633186340332,
+      "quality_score_raw": 0.15245383977890015
+    },
+    "afb3242c9669cb2ec55e0e18ac989a48227fe5ae2153d7ef02cc1f3b2a9bf7fd": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130984.JPG",
+      "filename": "P1130984.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.189417839050293,
+      "quality_score_raw": 0.21502912044525146
+    },
+    "7e750a1e9753b0b87a84a7a7e550184eda4c6bf56fe1b8516705d5b6f6be141a": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130984.RW2",
+      "filename": "P1130984.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.0759100914001465,
+      "quality_score_raw": 0.13811293244361877
+    },
+    "2be6aaa63ec4d8df048d20335bd7d2324dc6baab78cc58f9c9178962beffbbf9": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130985.JPG",
+      "filename": "P1130985.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.4655375480651855,
+      "quality_score_raw": 0.22137662768363953
+    },
+    "b89d6e783dbc37f6785372299d16bf2d37a99019f65b4bd79abf45a19f91677d": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130985.RW2",
+      "filename": "P1130985.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.488438606262207,
+      "quality_score_raw": 0.15265002846717834
+    },
+    "9aa59337485a2dee06fcbef974b1f503d6fde1f47fdc44f9fbac0bedad436355": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130989.RW2",
+      "filename": "P1130989.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.678193092346191,
+      "quality_score_raw": 0.15732112526893616
+    },
+    "806f98bf992447d432177b2b3dc731675e21151ff205fc514b07629168a1b8a0": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130990.RW2",
+      "filename": "P1130990.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.711057662963867,
+      "quality_score_raw": 0.15504834055900574
+    },
+    "e6473d83644a454f81715121a459ff13b1a7d1bd8949c8eda3968169845c7bd1": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1130992.RW2",
+      "filename": "P1130992.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.658761024475098,
+      "quality_score_raw": 0.15450939536094666
+    },
+    "5ecbe4ba276a7579a0506c37bebd21162fdf4d7d9fc84e14d54aa70b5a3d4317": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131004.RW2",
+      "filename": "P1131004.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.705918312072754,
+      "quality_score_raw": 0.14739379286766052
+    },
+    "c7b78199665ea76744c8d91739d6fd1acf935cec5a338a9949ce76810d5cefd8": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131006.RW2",
+      "filename": "P1131006.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.5951690673828125,
+      "quality_score_raw": 0.14222484827041626
+    },
+    "155664e966210ca707c1c9fc9b48affd02884191189536b55a7527c45a40c6fd": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131007.RW2",
+      "filename": "P1131007.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.660035610198975,
+      "quality_score_raw": 0.13370856642723083
+    },
+    "ee0d49b6cabbcf42b1900d1e5f89449468bd06a689f254ab771ffec213ba3d46": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131008.RW2",
+      "filename": "P1131008.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.724400997161865,
+      "quality_score_raw": 0.14385220408439636
+    },
+    "811ca4e52a3e746c3ed662758f07efe8eb13cdbee87daf3fd2b81161dca77a8e": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131010.RW2",
+      "filename": "P1131010.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.5745391845703125,
+      "quality_score_raw": 0.13076812028884888
+    },
+    "1a5e36f2f621850a62996e953df8e9d86083f992f9d6f9b304c0445607d71911": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131011.RW2",
+      "filename": "P1131011.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.473606109619141,
+      "quality_score_raw": 0.13240006566047668
+    },
+    "b9170aa43b9e4b1c6a33730fa7a7b87975ce84b86cb026edac2e85ed6d0dc362": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131012.RW2",
+      "filename": "P1131012.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.617074489593506,
+      "quality_score_raw": 0.12301156669855118
+    },
+    "34bd50aa699f065f672b5148e83a7d23af296402d5d5e7a944c4a630aaf598e8": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131013.RW2",
+      "filename": "P1131013.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.713922023773193,
+      "quality_score_raw": 0.10791849344968796
+    },
+    "c2f12a1dd547d72bb07b2249c7e54b146d3f110e722d9f06693a6481e01fa7f0": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131014.RW2",
+      "filename": "P1131014.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.679458141326904,
+      "quality_score_raw": 0.12398528307676315
+    },
+    "7c73699d797333eb2475d094063c3f72d4d403669d4692e52dbce1d0e9039847": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131015.RW2",
+      "filename": "P1131015.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.634372711181641,
+      "quality_score_raw": 0.11701259762048721
+    },
+    "c73521b5bc5dcb92a0ba7692d0c93dd774cebc2be78523f499037f1284a047cd": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131021.JPG",
+      "filename": "P1131021.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.599612712860107,
+      "quality_score_raw": 0.19226312637329102
+    },
+    "893bf208580849452da6b6227aec72555523c27f836129e4194a3f7470a964f6": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131021.RW2",
+      "filename": "P1131021.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.430500030517578,
+      "quality_score_raw": 0.12422017008066177
+    },
+    "a90fd92331b5b2cb3553162144392ac881304654093f3e5e4da5b6a7b8017ce4": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131022.RW2",
+      "filename": "P1131022.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.694382190704346,
+      "quality_score_raw": 0.126800537109375
+    },
+    "506af0c604473598387a22b6c14eaf290d975c2afe9939ce1340c12d433ad4da": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131023.RW2",
+      "filename": "P1131023.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.5769500732421875,
+      "quality_score_raw": 0.13348212838172913
+    },
+    "9170b5e01cf44b1c0b949183f62e255f9a3bfbb9277f04b778d9dd5f297f03ee": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131024.RW2",
+      "filename": "P1131024.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.513587951660156,
+      "quality_score_raw": 0.13251298666000366
+    },
+    "dc420dd21c45cb7a5916e09117c3f643a291b53964e130706513af00b2115b6d": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131025.JPG",
+      "filename": "P1131025.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.1809000968933105,
+      "quality_score_raw": 0.23474985361099243
+    },
+    "3bc9288d72abca842bba8fa4aabe8d16c4666b74641ee046f462b9cba5b19a6f": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131025.RW2",
+      "filename": "P1131025.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.196855068206787,
+      "quality_score_raw": 0.15459907054901123
+    },
+    "a850edefca3688b07e1b1f8f0d104a9845863237c278f0b12ab587a1e1de3bd3": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131029.RW2",
+      "filename": "P1131029.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.637423038482666,
+      "quality_score_raw": 0.15404048562049866
+    },
+    "df64fe256905ef47de52acfd2aee87b9f0be74230d4e04fc3ab08cd880efc340": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131030.JPG",
+      "filename": "P1131030.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.639769554138184,
+      "quality_score_raw": 0.16748806834220886
+    },
+    "a75e8f44dbfd044269dd4fa1103d626fdcc9c95c01c9e27a3401511446b7944f": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131031.JPG",
+      "filename": "P1131031.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.560686111450195,
+      "quality_score_raw": 0.2344927191734314
+    },
+    "9be2d1d0de0ba08b7530155c133d45e0ec077ac7ae88d12c158c2da306ac76d6": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131031.RW2",
+      "filename": "P1131031.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.509342670440674,
+      "quality_score_raw": 0.1990136206150055
+    },
+    "4cd704ad46b5a43833c6f79e85275e60b4062c32eda70633f604435f0091f7f1": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131032.JPG",
+      "filename": "P1131032.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.54739236831665,
+      "quality_score_raw": 0.20717591047286987
+    },
+    "8d61827b870e5759e1800069c82e4f8a8868eda4cdaf87b4b7ed761fb0b1fe46": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131032.RW2",
+      "filename": "P1131032.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.571836948394775,
+      "quality_score_raw": 0.1435510814189911
+    },
+    "accbb7ab6374e7c6d253cbaaaa04bdaaf47274f87fa3180f068b0f80a0d782bd": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131034.RW2",
+      "filename": "P1131034.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.6080756187438965,
+      "quality_score_raw": 0.15351277589797974
+    },
+    "e2a8931f8cc52b11bb4d74eae1b9e9de834c7577769d7861674aec2216b49e87": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131035.JPG",
+      "filename": "P1131035.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.367463111877441,
+      "quality_score_raw": 0.2117460072040558
+    },
+    "f466031109d00ecf9a47a05e9dea892cc2bc25509fa6a0d4138e38613f1c9318": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131035.RW2",
+      "filename": "P1131035.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.571377277374268,
+      "quality_score_raw": 0.1502564251422882
+    },
+    "8be808f381bbbf8db6ebebdcc69f08fe32c75769ffa3c61764616a81aab20063": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131037.JPG",
+      "filename": "P1131037.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.473414421081543,
+      "quality_score_raw": 0.17262953519821167
+    },
+    "3e63b18bfc7da3ac93c2357682659a7d1b9b089b4cab6a9b50ac4f49735e7933": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131038.JPG",
+      "filename": "P1131038.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.3762898445129395,
+      "quality_score_raw": 0.20145979523658752
+    },
+    "d3ec02f0f8b1ac92436f469ccfae9c059378cd3c80b9666864c39bbc55c8bba7": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131038.RW2",
+      "filename": "P1131038.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.371171951293945,
+      "quality_score_raw": 0.15915250778198242
+    },
+    "9147d68b0a88c10254b4397a0ae6e48471ad975e6a8f21d9947310ba772d275b": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131040.JPG",
+      "filename": "P1131040.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.472199440002441,
+      "quality_score_raw": 0.21589449048042297
+    },
+    "c4b0292c80c66eea4eea13a426aff5ae10a7671654c58999007e1150a7a68feb": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131040.RW2",
+      "filename": "P1131040.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.615021705627441,
+      "quality_score_raw": 0.15510821342468262
+    },
+    "0b4fe3afa0dc92c00dbab2d5e64be109e37c7588564d1fcc08f50c47d8d415b6": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131041.RW2",
+      "filename": "P1131041.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.578011989593506,
+      "quality_score_raw": 0.1751159131526947
+    },
+    "5dab13c3395ad9fa377ac6071a2fb5d12c7bee81439e5965a492b4817d335dbd": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131042.JPG",
+      "filename": "P1131042.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.628798007965088,
+      "quality_score_raw": 0.198439359664917
+    },
+    "a3b7f7edfa043f0da9a43662eae2768cdd8ed169b8370948a40c72e4ff2712fa": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131042.RW2",
+      "filename": "P1131042.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.463473320007324,
+      "quality_score_raw": 0.14237910509109497
+    },
+    "be3edcd6acd1e671bd7405ab1278bb979f05d7ef838527154f3054f6b933be6b": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131043.RW2",
+      "filename": "P1131043.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.280625343322754,
+      "quality_score_raw": 0.1883111596107483
+    },
+    "ef9a7f4d8fb9ff4e69c99fef8bbdb35748e0395bb809c4328e5d867aa6aabd81": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131044.JPG",
+      "filename": "P1131044.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.27777099609375,
+      "quality_score_raw": 0.21783888339996338
+    },
+    "004b13e8d9a4a226894994fa1ea3d7bbd9bd8d9fc816468e2d953d0749c8e75f": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131044.RW2",
+      "filename": "P1131044.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.307919979095459,
+      "quality_score_raw": 0.149654358625412
+    },
+    "03b13b8084d268393ff427e8321997b59edae0b56a5a8d533967fd7bd4a76a09": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131045.RW2",
+      "filename": "P1131045.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.44969367980957,
+      "quality_score_raw": 0.19654574990272522
+    },
+    "ed009bbec459cab5f98a07aacd04e1f38d3793651ad13b7d7823946af6e7e32c": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131046.JPG",
+      "filename": "P1131046.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.346524715423584,
+      "quality_score_raw": 0.24113482236862183
+    },
+    "3df3be95facabfa61196d3e503b0be7a98469368966f10a7248f346f1f310633": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131046.RW2",
+      "filename": "P1131046.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.399314880371094,
+      "quality_score_raw": 0.17458686232566833
+    },
+    "5f1b496088498dc46aca676797a4f88313c7fcb0c41adb75b0933b4a1e7d3f16": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131047.RW2",
+      "filename": "P1131047.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.3124847412109375,
+      "quality_score_raw": 0.2187252640724182
+    },
+    "1c18bd1d1d5eaf3915babf6fb6ceae306ac709e449842e42834ee9791a9bac8f": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131048.JPG",
+      "filename": "P1131048.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.156610012054443,
+      "quality_score_raw": 0.2183835208415985
+    },
+    "a018052208d4f46c46c4f21f98ac9d24ddd9b5ce748c980fa3b193b5299409aa": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131048.RW2",
+      "filename": "P1131048.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.540621757507324,
+      "quality_score_raw": 0.16166791319847107
+    },
+    "1b03edb6d33a94dbd8d10837d3d1590c3a607a868c2b150e3a0945746ef7a85b": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131049.JPG",
+      "filename": "P1131049.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.276538848876953,
+      "quality_score_raw": 0.3079911768436432
+    },
+    "538fd82495cdbd6a0bcd0660833cd0fd85898cf9cd9a681b6cd0e23f6704072a": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131049.RW2",
+      "filename": "P1131049.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.433714389801025,
+      "quality_score_raw": 0.2212601900100708
+    },
+    "a661b7388d8ad9cea32daeaa92ff3ff6d80627a3497a947eae1e092c35ca45b6": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131050.JPG",
+      "filename": "P1131050.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.3355793952941895,
+      "quality_score_raw": 0.20523127913475037
+    },
+    "b4357e981328bc5d9d77e8057854e720615bb5c6a65ce964cd8d0d0f8df1de3f": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131050.RW2",
+      "filename": "P1131050.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.350838661193848,
+      "quality_score_raw": 0.15577685832977295
+    },
+    "94ed906dadd4634e593f50af338a8692de3b32f00e9c03a97c0a883a26195e0e": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131052.JPG",
+      "filename": "P1131052.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.349842548370361,
+      "quality_score_raw": 0.1962125301361084
+    },
+    "5d4dc33222d468e63c3e5563a608ab055823466575522c3c61cfba01950905a3": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131052.RW2",
+      "filename": "P1131052.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.18344259262085,
+      "quality_score_raw": 0.14675453305244446
+    },
+    "e49e6bf92a8d87d2bc80ca4fd7c08995031f968554bff55f9765a4c3bd62b17e": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131053.RW2",
+      "filename": "P1131053.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.711010932922363,
+      "quality_score_raw": 0.14231503009796143
+    },
+    "ccaee5f470f6ed4967ebe5c5b8d98468a9f077c02df91378d2d78c1d0c994a64": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131056.RW2",
+      "filename": "P1131056.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.657772064208984,
+      "quality_score_raw": 0.13596323132514954
+    },
+    "fdc7107f5d65559fac41aa5479b791e0897441bf09df31ca42cc72dc5c2116c5": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131057.JPG",
+      "filename": "P1131057.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.593346118927002,
+      "quality_score_raw": 0.17610034346580505
+    },
+    "6f506cab13f79bae5e0e10733b69e1ede4862ba39e5c622fe76fbf71b92809ec": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131057.RW2",
+      "filename": "P1131057.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.693638801574707,
+      "quality_score_raw": 0.12563800811767578
+    },
+    "c4b4b882c56fe7fb26216d5c03077ae3c05ffe8e6f4baacf6fe8502b52d7e545": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131058.JPG",
+      "filename": "P1131058.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.08588981628418,
+      "quality_score_raw": 0.1583234667778015
+    },
+    "d1a8f38a043f3237537e6e47ea81f3e20dbf6c34e1f947cd31ea23fe4084c606": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131058.RW2",
+      "filename": "P1131058.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.220470428466797,
+      "quality_score_raw": 0.10745040327310562
+    },
+    "0a3167d93018d794b1b21ade9b0831955bc5c9c5238dc745c0c91a3b945a8874": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131059.JPG",
+      "filename": "P1131059.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.236180305480957,
+      "quality_score_raw": 0.13723185658454895
+    },
+    "b59d88207a7b28d564d3745f1ad3f1946e6cd35a7d3b3ece695a036124974d3d": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131059.RW2",
+      "filename": "P1131059.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.333494663238525,
+      "quality_score_raw": 0.09156335145235062
+    },
+    "637a4d7de8409b83f1f2cf8bab05e50d82275f6e581e349d06b1323a5a36b626": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131060.JPG",
+      "filename": "P1131060.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.396751880645752,
+      "quality_score_raw": 0.19538763165473938
+    },
+    "5b0877cb09f8766d1fedadcd7ed03691417ffb4e0aa10263cd1229ff102a7b17": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131060.RW2",
+      "filename": "P1131060.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.270605564117432,
+      "quality_score_raw": 0.14448639750480652
+    },
+    "aae995ffbde98a014f0cf990e2ddb622ef24b282c2bdc7c4869fc167bba86841": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131065.JPG",
+      "filename": "P1131065.JPG",
+      "width": 6000,
+      "height": 4000,
+      "aesthetic_score_raw": 4.69597053527832,
+      "quality_score_raw": 0.15870854258537292
+    },
+    "0f56964821c9d5ce1d39067da597bba860d2ccfc1dcab10b254da32c3644363d": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131065.RW2",
+      "filename": "P1131065.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.763362884521484,
+      "quality_score_raw": 0.11716873198747635
+    },
+    "7cd6b646a16a95a283f059f7ccda84036b559c4f3013fb70d94fe528be1c7dd2": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131069.RW2",
+      "filename": "P1131069.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.490426063537598,
+      "quality_score_raw": 0.14984533190727234
+    },
+    "dd0423b5e52028756e8d32e00fcb00a3d39456d98df5f22ef20a5e0df04e29ba": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131070.RW2",
+      "filename": "P1131070.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.712672710418701,
+      "quality_score_raw": 0.0982108786702156
+    },
+    "7719fb9f29d050b37560b09d19f1fd6e3eee72709540228ea8b35e3eed106df6": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131072.RW2",
+      "filename": "P1131072.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.698696136474609,
+      "quality_score_raw": 0.13389375805854797
+    },
+    "697aebcaa2489579bf2af54fbdca4db8fcb2bf653f401e7e442a2b18ea0e38a7": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131074.RW2",
+      "filename": "P1131074.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.6933488845825195,
+      "quality_score_raw": 0.13889279961585999
+    },
+    "78becb2f96abaffd3d9504b53344eadc456ccd7e8c1a984deebd36330ee06cf3": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131075.RW2",
+      "filename": "P1131075.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.712845802307129,
+      "quality_score_raw": 0.13097897171974182
+    },
+    "344b8d2b4de7b1690cda6ca028eae9c4c328d7b1efd4038db25c6f873211e57b": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131076.RW2",
+      "filename": "P1131076.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.549208164215088,
+      "quality_score_raw": 0.1633569300174713
+    },
+    "58c43ddfb972929a303049a0f2c0d30dec5e927917c53e3855df239805798680": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131077.RW2",
+      "filename": "P1131077.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.468400478363037,
+      "quality_score_raw": 0.15094062685966492
+    },
+    "9fd56cc03c4e304f13f7f882e040a4bcbcae5378016a04f32fd90ffacd7f30af": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131078.RW2",
+      "filename": "P1131078.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.65873908996582,
+      "quality_score_raw": 0.1544707715511322
+    },
+    "a5b1b6a14c60ac91261d4c34688438e6769e986b6c6283db2ef1955004aacb8c": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131079.RW2",
+      "filename": "P1131079.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.67271614074707,
+      "quality_score_raw": 0.16341036558151245
+    },
+    "05b4823959e8e4b658cb01814db13634b8be498b91abe1c84d8d70aaf33cc7a1": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131080.RW2",
+      "filename": "P1131080.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.62734317779541,
+      "quality_score_raw": 0.12666216492652893
+    },
+    "aef9051da9152aa9d8e71c2838ba89b63babefbecb3d48c1155466bdaf0b1eda": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131083.RW2",
+      "filename": "P1131083.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 3.9087982177734375,
+      "quality_score_raw": 0.5585448741912842
+    },
+    "d2587e5273d33a5e0ea416d65da2962eb920598ffe736bdd279b75e69af15604": {
+      "filepath": "D:\\26\u987e\u6751\\Capture\\low\\P1131151.RW2",
+      "filename": "P1131151.RW2",
+      "width": 6008,
+      "height": 4008,
+      "aesthetic_score_raw": 4.3103413581848145,
+      "quality_score_raw": 0.3282521367073059
+    }
+  }
+}
