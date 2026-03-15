@@ -267,3 +267,9 @@ uv run train-calibrator --positive-dir "D:\photo_labels\positive" --negative-dir
 - Windows 上 Hugging Face / torch 缓存初始化
 
 第二次开始通常会快很多。
+
+
+
+
+# 方案2
+test.py 是三方库https://github.com/discus0434/aesthetic-predictor-v2-5 的测试。
